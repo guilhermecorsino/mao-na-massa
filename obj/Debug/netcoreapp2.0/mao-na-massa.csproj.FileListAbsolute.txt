@@ -1,0 +1,10 @@
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/bin/Debug/netcoreapp2.0/mao-na-massa.deps.json
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/bin/Debug/netcoreapp2.0/mao-na-massa.runtimeconfig.json
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/bin/Debug/netcoreapp2.0/mao-na-massa.runtimeconfig.dev.json
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/bin/Debug/netcoreapp2.0/mao-na-massa.dll
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/bin/Debug/netcoreapp2.0/mao-na-massa.pdb
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/obj/Debug/netcoreapp2.0/mao-na-massa.csproj.CoreCompileInputs.cache
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/obj/Debug/netcoreapp2.0/mao-na-massa.AssemblyInfoInputs.cache
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/obj/Debug/netcoreapp2.0/mao-na-massa.AssemblyInfo.cs
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/obj/Debug/netcoreapp2.0/mao-na-massa.dll
+/Users/guilhermecorsino/Documents/Projetos/Estudos/mao-na-massa/mao-na-massa/obj/Debug/netcoreapp2.0/mao-na-massa.pdb
