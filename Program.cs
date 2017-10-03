@@ -18,8 +18,9 @@ namespace mao_na_massa
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
+              WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .UseUrls("http://*:50002")
                 .Build();
     }
 }
