@@ -1,0 +1,10 @@
+/home/gcorsino/mao-na-massa
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=mao-na-massa
+--content-root=/home/gcorsino/mao-na-massa
+--file=/home/gcorsino/mao-na-massa/Views/Home/Index.cshtml
+--file=/home/gcorsino/mao-na-massa/Views/Shared/Error.cshtml
+--file=/home/gcorsino/mao-na-massa/Views/Shared/_Layout.cshtml
+--file=/home/gcorsino/mao-na-massa/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/gcorsino/mao-na-massa/Views/_ViewImports.cshtml
+--file=/home/gcorsino/mao-na-massa/Views/_ViewStart.cshtml
